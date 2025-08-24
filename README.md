@@ -36,10 +36,6 @@ I am Akmal Adnan, a **Developer** based out of Malaysia. Having around 2 years o
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ## Stats
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=akmal-adnan&theme=tokyonight)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=akmal-adnan&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akmal-adnan&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-adnan&hide=TeX&layout=compact&theme=prussian)
