@@ -1,3 +1,5 @@
+![Github Banner](https://raw.githubusercontent.com/akmal-adnan/akmal-adnan/refs/heads/main/GithubBanner.png)
+
 ### Hi there 👋
 
 I am Akmal Adnan, a **Developer** based out of Malaysia. Having around 2 years of experience in Mobile App and Web development, but since 2020, I'm professionally working as an IT Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
