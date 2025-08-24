@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-I am Akmal Adnan, a **Developer** based out of Malaysia. Having around 2 years of experience in Mobile App and Web development, but since 2020, I'm professionally working as an IT Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Akmal Adnan, a **Developer** based out of Malaysia. I’m Muhammad Akmal Bin Adnan, a developer with 4 years of experience delivering scalable, high-performance web applications. Adaptable across industries, I excel in modern frameworks,
+performance optimization, and UI/UX best practices. Seeking to contribute my expertise to a forward-thinking team and make a lasting impact.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmal578/)
 
