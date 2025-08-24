@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/akmal-adnan/akmal-adnan/refs/heads/main/GithubBanner.png)
+![Github Banner](https://raw.githubusercontent.com/akmal-adnan/akmal-adnan/refs/heads/main/GithubBanner2.png)
 
 ### Hi there 👋
 
@@ -38,6 +38,7 @@ I am Akmal Adnan, a **Developer** based out of Malaysia. Having around 2 years o
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ## Stats
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akmal-adnan&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-adnan&hide=TeX&layout=compact&theme=prussian)
