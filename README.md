@@ -38,10 +38,10 @@ performance optimization, and UI/UX best practices. Seeking to contribute my exp
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## Stats
+<!-- ## Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akmal-adnan&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-adnan&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akmal-adnan)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akmal-adnan) -->
